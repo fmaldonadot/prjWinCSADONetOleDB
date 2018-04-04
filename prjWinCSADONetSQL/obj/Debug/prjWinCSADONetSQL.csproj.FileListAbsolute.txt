@@ -1,0 +1,15 @@
+E:\Visual Studio 2015\winter18\prjWinCSADONetSQL\prjWinCSADONetSQL\bin\Debug\prjWinCSADONetSQL.exe.config
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\bin\Debug\prjWinCSADONetSQL.exe.config
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\bin\Debug\prjWinCSADONetSQL.exe
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\bin\Debug\prjWinCSADONetSQL.pdb
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\obj\Debug\prjWinCSADONetSQL.csprojResolveAssemblyReference.cache
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\obj\Debug\prjWinCSADONetSQL.frmPrincipal.resources
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\obj\Debug\prjWinCSADONetSQL.Properties.Resources.resources
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\obj\Debug\prjWinCSADONetSQL.csproj.GenerateResource.Cache
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\obj\Debug\prjWinCSADONetSQL.exe
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\obj\Debug\prjWinCSADONetSQL.pdb
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\obj\Debug\Interop.ADODB.dll
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\obj\Debug\prjWinCSADONetSQL.csproj.ResolveComReference.cache
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\obj\Debug\prjWinCSADONetSQL.frmRecherche.resources
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\obj\Debug\prjWinCSADONetSQL.frmApplication.resources
+C:\Users\fmtchicho\Documents\Visual Studio 2015\Projects\prjWinCSADONetSQL\prjWinCSADONetSQL\obj\Debug\prjWinCSADONetSQL.frmFournisseur.resources
